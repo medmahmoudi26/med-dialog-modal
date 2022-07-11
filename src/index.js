@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import AlertDialog from './AlertDialoge';
+import AlertDialog from './AlertDialog';
 
 
 ReactDOM.render(
